@@ -1,4 +1,4 @@
-# This is an cocktail <Menu>
+# This is an cocktail menu
   * Page 1
   ![GitHub Logo](https://github.com/YJDIFF/living/blob/YJDIFF-cocktails/1.png)
   * Page 2
